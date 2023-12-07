@@ -69,7 +69,7 @@ dotenv.f_clearEnv()
 - `s_env_cleared`: Emitted when the environment is cleared.
 
 ## Compatibility
-- Godot 3.x
+- Godot 4.x
 
 ## License
 This plugin is distributed under the [MIT license](LICENSE.md).
